@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Garp
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Garp\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Garp()
+comment1.text=\r\n\ Constructor\ om\ de\ afbeelding\ van\ Garp\ te\ laden.\r\n\ Geen\ parameters\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ GArp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ in\ the\ enviroment.\r\n
+comment3.params=
+comment3.target=void\ movingAndTurning()
+comment3.text=\r\nDeze\ methode\ vangt\ op\ welke\ pijltjestoes\ is\ ingedrukt\ en\ beeweegt\ vervolgens\ Gar[\r\n\ Geen\ parameters\r\n\ Geen\ teruggave\r\n
+comment4.params=
+comment4.target=void\ collectingDiamonds()
+comment4.text=\r\n\ In\ deze\ methode\ verzamelt\ Garp\ de\ diamanten\r\n\ geen\ parameters\r\n\ geen\ teruggave\r\n
+comment5.params=
+comment5.target=boolean\ foundRock()
+comment5.text=\r\n\ Deze\ methode\ \ bepaalt\ of\ Garp\ tegen\ is\ aangelopen\r\n\ geen\ parameters\r\n\ teruggave\ booleon\r\n
+comment6.params=
+comment6.target=void\ foundBomb()
+numComments=7

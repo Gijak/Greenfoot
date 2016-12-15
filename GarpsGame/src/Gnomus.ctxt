@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Gnomus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gnomus\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Gnomus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment2.text=\r\n\ Controleer\ of\ Gnomus\ aan\ het\ einde\ van\ de\ wereld\ staat.\r\n\ Geen\ parameters\r\n\ @return\:\ boolean\:\ flase\:\ als\ Gnomus\ ergens\ midden\ op\ de\ wereld\ staat\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ true\:\ als\ Gnomus\ op\ de\ rand\ van\ de\ wereld\ staat\r\n
+comment3.params=
+comment3.target=void\ setRotation()
+comment3.text=\r\n\ *Zorgt\ voor\ een\ willekeurige\ relatie\ van\ Gnomus\r\n\ *Geen\ parameters\ en\ geen\ teruggave\r\n
+comment4.params=
+comment4.target=void\ lookForActor()
+comment4.text=\r\nDeze\ methode\ zorgt\ ervoor\ dat\ Gnomus\ een\ draaai\ maakt\ als\ hij\ tegen\ een\ wi.....\r\naanloopt\r\n
+comment5.params=
+comment5.target=void\ lookForGarp()
+comment5.text=\r\n\ In\ deze\ methode\ vermoordt\ Garp,\ nadat\ deze\ heel\ hard\ geschreeuwd\ heeft....\r\n\ Geen\ parameters\r\n\ Geen\ teruggave\r\n
+numComments=6
